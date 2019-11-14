@@ -7,7 +7,7 @@
     >
       <div class="d-flex align-center">
         <v-btn
-          href="https://marie-prog0627.github.io"
+          href="https://marie-prog0627.github.io/dist/index.html"
           target="_blank"
           text
         >
