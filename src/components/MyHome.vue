@@ -34,6 +34,7 @@
       >
         <h2 class="headline font-weight-bold mb-3">Achievement</h2>
         <ul class="subheading font-weight-bold">
+          <li>2019.12 Send my project to an exhibition, "装置とは限らない"</li>
           <li>2019.10 Released a paper at UIST 2019 posters</li>
           <li>2019.07 Released a paper at Work in Progress of World Haptics Conference 2019</li>
           <li>2018.12 Presented a poster at HCG 2018 (Domestic Conference)</li>
