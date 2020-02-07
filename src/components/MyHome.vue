@@ -48,7 +48,7 @@
 
         <ul class="subheading font-weight-regular">
           <li>2018.03 Graduated from Kaichi high school</li>
-          <li>2019.04 Entered Colleage of Information Science, University of Tsukuba</li>
+          <li>2018.04 Entered Colleage of Information Science, University of Tsukuba</li>
         </ul>
       </v-flex>
 
