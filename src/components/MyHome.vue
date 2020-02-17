@@ -24,7 +24,7 @@
         </h1>
         <p class="subheading font-weight-bold">
           I am Ryota Sakuma, a student in College of Information Science, University of Tsukuba.
-          <br>I research about haptics and develop support systems using haptic technology for people with impairments.
+          <br>I research about haptics and modal transformation.
         </p>
       </v-flex>
 
@@ -49,6 +49,7 @@
         <ul class="subheading font-weight-regular">
           <li>2018.03 Graduated from Kaichi high school</li>
           <li>2018.04 Entered Colleage of Information Science, University of Tsukuba</li>
+          <li>2018.04 Joined in Xper Lab, University of Tsukuba (Prof. Keiichi Zempo)</li>
         </ul>
       </v-flex>
 
