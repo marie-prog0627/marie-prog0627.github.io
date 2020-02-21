@@ -24,7 +24,7 @@
         </h1>
         <p class="subheading font-weight-bold">
           I am Ryota Sakuma, a student in College of Information Science, University of Tsukuba.
-          <br>I research about haptics and modal transformation.
+          <br>I research about haptics and cross modal sensation.
         </p>
       </v-flex>
 
@@ -35,9 +35,9 @@
         <h2 class="headline font-weight-bold mb-3">Achievement</h2>
         <ul class="subheading font-weight-bold">
           <li>2019.12 Send my project to an exhibition, "装置とは限らない"</li>
-          <li>2019.10 Released a paper at UIST 2019 posters</li>
-          <li>2019.07 Released a paper at Work in Progress of World Haptics Conference 2019</li>
-          <li>2018.12 Presented a poster at HCG 2018 (Domestic Conference)</li>
+          <li>2019.10 Exhibited a poster in UIST 2019</li>
+          <li>2019.07 Exhibited a poster in World Haptics Conference 2019</li>
+          <li>2018.12 Exhibited a poster in HCG 2018 (Domestic Conference)</li>
         </ul>
       </v-flex>
       <v-flex
